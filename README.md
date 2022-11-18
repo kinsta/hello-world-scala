@@ -1,3 +1,5 @@
+![Photo by Madison Oren on Unsplash](https://user-images.githubusercontent.com/2342458/202707015-13fe70e3-539e-418f-9b82-e38cca652cb4.png)
+
 # Kinsta - Hello World - Scala
 An example of how to set your Scala application up to enable deployment on Kinsta App Hosting services.
 
