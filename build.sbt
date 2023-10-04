@@ -9,3 +9,5 @@ libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.6.19"
 libraryDependencies += "com.typesafe.akka" %% "akka-http" % "10.2.9"
 
 enablePlugins(JavaAppPackaging)
+
+executableScriptName := "main"
