@@ -1,2 +1,0 @@
-[start]
-cmd = './target/universal/stage/bin/hello-world-scala -Dhttp.port=$PORT'
